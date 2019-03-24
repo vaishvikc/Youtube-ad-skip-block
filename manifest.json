@@ -5,7 +5,7 @@
   "manifest_version": 2,
   "version":"0.1.0",
   "author":"Vaishvik chaudhari",
-  "homepage_url": "https://github.com/vaishvikc",
+  "homepage_url": "https://github.com/vaishvikc/Youtube-ad-skip-block",
   "content_scripts":[
     {
       "matches": ["*://*.youtube.com/*"],
