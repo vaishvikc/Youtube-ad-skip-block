@@ -3,6 +3,7 @@ To skip and block the ad from youtube page.
 
 
 Version 0.1.0
+
 ---> Able to skip ad before skip time overs.
 
 What is skip5.js doing ?
@@ -17,6 +18,7 @@ What is skip5.js doing ?
 ---> SO, closing button is triggered by passing button name and event type('click') to firevent funtion.
 
 How to install ?
+
 ---> Download or clone the repo.
 
 ---> unzip.
@@ -33,6 +35,7 @@ How to install ?
 
 
 Future version 0.2.0 (coming soon)
+
 ---> able to auto close popup ads.
 
 
