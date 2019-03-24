@@ -16,17 +16,11 @@ What is skip5.js doing ?
 
 How to install ?
 ---> Download or clone the repo.
-
 ---> unzip.
-
 ---> open crome go to extensions.
-
 ---> click load unpacked.
-
 ---> locate unzip folder.
-
 ---> enable extension from extention panel.
-
 ---> done enjoy.
 
 
