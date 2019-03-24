@@ -24,8 +24,7 @@ How to install ?
 ---> done enjoy.
 
 
-Future version 0.2.0
-
+Future version 0.2.0 (coming soon)
 ---> able to auto close popup ads.
 
 
