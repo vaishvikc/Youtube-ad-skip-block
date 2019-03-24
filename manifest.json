@@ -1,0 +1,20 @@
+{
+  "name":"YouTube Ad block-skip",
+  "short_name": "YouTube Ad block-skip",
+  "description":"YouTube Ad block-skip is an extension that auto skips ads. No need to wait for 5 secs for skip",
+  "manifest_version": 2,
+  "version":"0.1.0",
+  "author":"Vaishvik chaudhari",
+  "homepage_url": "https://github.com/vaishvikc",
+  "content_scripts":[
+    {
+      "matches": ["*://*.youtube.com/*"],
+      "js":["skip5.js"],
+      "run_at": "document_end",
+      "all_frames": true
+    }
+  ],
+  "icons": {
+    "128": "logo.png"
+  }
+}
