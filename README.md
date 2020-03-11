@@ -1,41 +1,27 @@
 # Youtube-ad-skip-block
-To skip and block the ad from youtube page.
+<b>To skip and block the ADs from youtube page.</b>
 
+<B>What is skip5.js doing ?</B><br>
 
-Version 0.1.0
-
----> Able to skip ad before skip time overs.
-
-What is skip5.js doing ?
-
----> All the thing can be controled from dom of webpage.
-
----> Elements responsible for show ad and closing ad in dom are 
+-> Document Object Model (DOM) is a programming interface for HTML.Documents are modeled using objects, and the model includes not only the structure of a document but also the behavior of a document and the objects of which it is composed of like tag elements with attributes in HTML.<br>
+-> Elements responsible for show ads and closing ad in dom tree of youtube are  
     'videoAdUiSkipButton', // Old
     'ytp-ad-skip-button ytp-button', // New
-    'ytp-ad-overlay-close-button',// closing button
-    
----> SO, closing button is triggered by passing button name and event type('click') to firevent funtion.
+    'ytp-ad-overlay-close-button',// closing button<br>    
+-> SO, closing button is triggered by passing button name and event type('click') to firevent funtion.
 
-How to install ?
+<B>How to find this objects ?</B><br>
+->Selenium is a portable framework for testing web applications. So you can make a test for youtube in selenium IDE and can see which botton is responsible for what actions.<br>
 
----> Download or clone the repo.
+<B>How to install ?</B><br>
 
----> unzip.
+---> Download or clone the repo.<br>
+---> unzip.<br>
+---> open chrome go to extensions.<br>
+---> click load unpacked.<br>
+---> locate unzip folder.<br>
+---> enable extension from extention panel.<br>
+---> done enjoy.<br>
 
----> open crome go to extensions.
-
----> click load unpacked.
-
----> locate unzip folder.
-
----> enable extension from extention panel.
-
----> done enjoy.
-
-
-Future version 0.2.0 (coming soon)
-
----> able to auto close popup ads.
-
+This repo is for educational purpose only..
 
