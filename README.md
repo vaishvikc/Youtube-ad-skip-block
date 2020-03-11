@@ -7,7 +7,7 @@
 -> Elements responsible for show ads and closing ad in dom tree of youtube are  
     'videoAdUiSkipButton', // Old
     'ytp-ad-skip-button ytp-button', // New
-    'ytp-ad-overlay-close-button',// closing button<br>    
+    'ytp-ad-overlay-close-button',// closing button   
 -> SO, closing button is triggered by passing button name and event type('click') to firevent funtion.
 
 <B>How to find this objects ?</B><br>
